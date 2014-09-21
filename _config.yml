@@ -1,0 +1,10 @@
+name: Open Ops
+description: A strategy to evolve business operations with open-source.
+meta_description: "A strategy to evolve business operations with open-source."
+
+markdown: redcarpet
+pygments: true
+relative_permalinks: false
+
+url:            'blog url'
+author:         'Your Name'
